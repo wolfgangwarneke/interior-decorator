@@ -10,20 +10,40 @@ img {
 }
 
 .before {
+  background-color: #FFF1AA;
   float: left;
   width: 30%;
 }
 
 .during {
+  background-color: #D4C36A;
   float: left;
   width: 30%;
 }
 
 .after {
+  background-color: #AA9739;
   float: left;
   width: 30%;
 }
 
 .images {
   clear: left;
+}
+
+.text {
+  /*display: block;*/
+  height: 550px;
+}
+
+.text div {
+  height: 100%;
+}
+
+.images {
+  height: 8000px;
+}
+
+.images div {
+  height: 100%;
 }
