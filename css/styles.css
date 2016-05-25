@@ -1,0 +1,29 @@
+h1 {
+
+}
+h2 {
+
+}
+
+img {
+  width: 100%;
+}
+
+.before {
+  float: left;
+  width: 30%;
+}
+
+.during {
+  float: left;
+  width: 30%;
+}
+
+.after {
+  float: left;
+  width: 30%;
+}
+
+.images {
+  clear: left;
+}
